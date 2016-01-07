@@ -3,8 +3,8 @@ title:       Pixyll
 email:       your_email@example.com
 author:      Chantelle Bradley
 description: "One blog to rule them all"
-baseurl:     "/chantymarie_com"
-url:         "http://joshharrington.github.io"
+baseurl:     ""
+url:         "http://chantymarie.com"
 date_format: "%b %-d, %Y"
 
 # Google analytics
