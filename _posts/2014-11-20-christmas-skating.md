@@ -1,3 +1,12 @@
+---
+layout:     post
+title:      Christmas Skating
+date:       2014-11-23 12:31:19
+summary:    Christmas skating at the Natural History Museum. 
+categories: blog
+---
+
+
 With Christmas coming up in 5 weeks, I decided to get into the spirit, and attempted to ice skate last weekend.
 I chose the Natural History Museum (mainly because I found a deal for 2 for £15)
 
