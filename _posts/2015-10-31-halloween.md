@@ -44,7 +44,7 @@ Casper is a beautifully made movie. It has great humor, excellent cast, an encha
 
 The headless horsemen. A tree full of bloody heads! Need I say more? Another awesome Tim Burton film.
 
-<hr></hr>
+<hr>
 
 So Happy Halloween, whats your favourite scary movie?
 
