@@ -1,3 +1,11 @@
+---
+layout:     post
+title:      Pixyll in Action
+date:       2014-06-10 12:31:19
+summary:    See what the different elements looks like. Your markdown has never looked better. I promise.
+categories: jekyll pixyll
+---
+
 Halloween is finally here! For&nbsp;me this is an exciting time, being the day before my Birthday!! :) So what better time to relax and watch something spooky whilst snuggling under a blanket and possibly hiding behind a cushion at times.
 
 Some of my favourite spooky shows and films:
