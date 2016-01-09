@@ -1,3 +1,11 @@
+---
+layout:     post
+title:      Nail Inc Polish: Concrete
+date:       2014-11-23 12:31:19
+summary:    Nail Inc: Concrete
+categories: blog
+---
+
 I popped into Tk Maxx earlier looking for a red nail polish. Originally I fancied an OPI but they only had glitter varnishes and we all know they are a pain to remove!
 
 Luckily I found this one by Nails Inc:
