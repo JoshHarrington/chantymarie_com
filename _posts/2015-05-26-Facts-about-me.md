@@ -1,3 +1,11 @@
+---
+layout:     post
+title:      Halloween
+date:       2015-10-31 12:31:19
+summary:    Halloween is finally here! For me this is an exciting time, being the day before my Birthday!!
+categories: blog
+---
+
 Hey,
 
 It's been a while but i'm back in the blogging world. Here are some random facts about moi.
