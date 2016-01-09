@@ -3,7 +3,40 @@ layout: default
 ---
 {% assign posts_count = (paginator.posts | size) %}
 
+<style>
+  .banner {
+  }
+  .banner-color {
+    background-color: #FEF2E6;
+    overflow: hidden;
+  }
+  .banner img {
+    float: right;
+    width: 250px;
+  }
+  .banner h3 {
+    float: left;
+    padding: 0 1em;
+  }
+  .banner cite {
+    font-size: 70%;
+    text-align: right;
+    display: block;
+    margin-top: .5em;
+  }
+  .banner cite a {
+    color: gray;
+  }
+</style>
+
 <div class="home">
+  <div class="banner">
+    <div class="banner-color">
+      <h3>Welcome to my blog!</h3>
+      <img src="/images/pusheenCat.gif" alt="">
+    </div>
+    <cite><a href="http://www.pusheen.com/post/5955423243">image sourced from pusheen.com</a></cite>
+  </div>
   {% if posts_count > 0 %}
     <div class="posts">
       {% for post in paginator.posts %}
