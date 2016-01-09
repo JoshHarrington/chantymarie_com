@@ -2,7 +2,7 @@
 layout:     post
 title:      Nail Inc Polish Concrete
 date:       2014-11-23 12:31:19
-summary:    Nail Inc Concrete
+summary:    New Nail Inc polish.
 categories: blog
 ---
 
