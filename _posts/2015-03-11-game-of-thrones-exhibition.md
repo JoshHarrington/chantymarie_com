@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      Game of Thrones Exhibition
+date:       2015-03-11 12:31:19
+summary:    Vicky and I got free tickets to the Game of Thrones Exhibition in London.
+categories: blog
+---
+
+
+
 <img src="http://chantymarie.com/wp-content/uploads/2015/03/IMG_3662.jpg" alt="">&nbsp;There's this hugely popular&nbsp;show, Game of Thrones which you must have heard of, it's got a huge following. Season 5 premieres on April 8th, so not long now people!&nbsp;</p><p>It's based on the Seven Kingdoms of Westeros (a fictional world) which is ruled by the&nbsp;Great Houses such as House Lannister or House Stark but the ultimate power derives from the King on the Iron Throne. It's complicated to explain but basically everyone wants to be on the throne! To dictate and rule, so as you can imagine no rules apply, nobody is safe!
 
 I also watch it for this guy:
