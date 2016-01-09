@@ -4,7 +4,7 @@ Some of my favourite spooky shows and films:
 
 <strong>Hocus Pocus</strong>
 
-<img class="aligncenter" src="http://chantymarie.com/wp-content/uploads/2015/10/hocus.jpg" alt="" width="337" height="187">
+<img src="/images/hocus.jpg" alt="" width="337" height="187">
 
 A must! Three witches get resurrected on All Hallows Eve and try to kill all of the kids in town, well its a Disney film so its more 'I want their soul' and less 'I want their blood.' This film was released in 1993, so its over 20 years old now! But it's still a cult classic and hilarious movie for all the family to watch. The talking cat is my favourite character - meow.
 
@@ -12,7 +12,7 @@ A must! Three witches get resurrected on All Hallows Eve and try to kill all of 
 
 <strong>American Horror Story-</strong> Which series to pick! Each season the same actors play different characters in a story based round a creepy theme. It's got a pretty good cast from Jessica Lange, Kathy Bates and Evan Peters to name a few. All of the series might be linked :) which is exciting.
 
-<img class="aligncenter" src="http://chantymarie.com/wp-content/uploads/2015/10/anigif_enhanced-19273-1410210544-4.gif" alt="" width="257" height="206">
+<img class="aligncenter" src="/images/taters.gif" alt="" width="257" height="206">
 
 <em>Murder House</em> - The first series, I'd say the most tame of all the seasons so far, but it's still very disturbing! Evil ghosts that torment the new family that have moved in; needless to say it doesn't end well.
 
@@ -24,9 +24,7 @@ A must! Three witches get resurrected on All Hallows Eve and try to kill all of 
 
 <i>Hotel</i> - Is now out, so each week I'm hooked to a new, even more&nbsp;twisted episode. So far there are vampires and creatures that have been stitched up into mattresses and other horrors I can't even begin to write down in words.&nbsp;
 
-<strong>Nightmare before Christmas - </strong>The tale of Jack and Sally. Not sure if this is more of a Christmas movie or not, but it's one of my favourite films of all time. A great Tim Burton classic, my favourite character is Oogie Boogie, this sack full of insects.&nbsp;
-
-&nbsp;<a href="http://chantymarie.com/wp-content/uploads/2015/10/IMG_6407.jpg"><img src="http://chantymarie.com/wp-content/uploads/2015/10/IMG_6407.jpg" alt=""></a>&nbsp;
+<strong>Nightmare before Christmas - </strong>The tale of Jack and Sally. Not sure if this is more of a Christmas movie or not, but it's one of my favourite films of all time. A great Tim Burton classic, my favourite character is Oogie Boogie, this sack full of insects.
 
 <strong>Casper</strong> - Casper the friendly ghost, the friendliest ghost you know! A young girl moves to a new town with her Dad. The house they live in turns out to be haunted by ghosts, 3 of the goods are annoying, except for Casper who takes a shine to the female lead.&nbsp;
 
@@ -34,7 +32,7 @@ Casper is a beautifully made movie. It has great humor, excellent cast, an encha
 
 <strong>Sleepy Hollow</strong>
 
-<img class="" src="http://chantymarie.com/wp-content/uploads/2015/10/sleepyh.jpg" alt="" width="460" height="242">
+<img class="" src="/images/sleepyh.jpg" alt="" width="460" height="242">
 
 The headless horsemen. A tree full of bloody heads! Need I say more? Another awesome Tim Burton film.
 
